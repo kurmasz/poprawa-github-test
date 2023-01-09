@@ -4,23 +4,31 @@
 ## Learning Objectives
 |Learning Objectives|Grade|Late Days|
 |------|-------|-------|
+|Origins (o1)|p **p**|0|
+|Get/Post (m1)|p **p**|0|
+|Implementation (i1)|**m**|0|
+|URL parts (i2)|x|0|
+|Write CSS (h3)|p **m**|0|
 
 |E|M|P|X|
 |------|-------|-------|-------|
-|0|0|0|0|
+|0|2|2|1|
 
-0 at 'm' or better.
+2 at 'm' or better.
 
 ![Learning Objectives](LearningObjectives.png)
 ## Homework
 |Homework|Grade|Late Days|
 |------|-------|-------|
+|Web Client (H1)|**m**|0|
+|Web Server (H2)|**m**|0|
+|Qwixx Board (H3)|p **m**|0|
 
 |E|M|P|X|
 |------|-------|-------|-------|
-|0|0|0|0|
+|0|3|0|0|
 
-0 at 'm' or better.
+3 at 'm' or better.
 
 ![Homework](Homework.png)
 ## Projects
