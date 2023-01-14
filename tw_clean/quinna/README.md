@@ -17,6 +17,7 @@
 0 at 'm' or better.
 
 ![Learning Objectives](LearningObjectives.png)
+
 ## Homework
 |Homework|Grade|Late Days|
 |------|-------|-------|
@@ -31,17 +32,18 @@
 2 at 'm' or better.
 
 ![Homework](Homework.png)
+
 ## Projects
 |Projects|Grade|Late Days|
 |------|-------|-------|
+|C Project (c)|C|0|
 
 |E|M|P|X|
 |------|-------|-------|-------|
-|0|0|0|0|
+|0|0|0|1|
 
 0 at 'm' or better.
 
-![Projects](Projects.png)
 
 ## Legend 
 * `e`: Exceeds expectations
