@@ -16,7 +16,7 @@
 
 2 at 'm' or better.
 
-![Learning Objectives](LearningObjectives.png)
+![Learning Objectives](LO.png)
 
 ## Homework
 |Homework|Grade|Late Days|
@@ -31,27 +31,22 @@
 
 2 at 'm' or better.
 
-![Homework](Homework.png)
+![Homework](H.png)
 
 ## Projects
 |Projects|Grade|Late Days|
 |------|-------|-------|
 |C Project (c)|A|0|
 
-|E|M|P|X|
-|------|-------|-------|-------|
-|0|0|0|1|
-
-0 at 'm' or better.
-
 
 ## Legend 
 * `e`: Exceeds expectations
 * `m`: Meets expectations
 * `p`: Progressing
-* `x`: Not Yet
-* `.`: Missing
+* `n`: Not Yet
+* `x`: Missing
+* `.`: Waiting for submission
 * `d`: Demonstrated but not yet graded
 * `r`: Received but not yet graded
 * `?`: Received; Grading in progress
-* `!`: Error in gradesheet
+* `!`: Error in grade sheet
